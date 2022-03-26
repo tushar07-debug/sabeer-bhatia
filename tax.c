@@ -2,7 +2,7 @@
 
 int main()
 {
-	long int salary; //to store salary
+	 int salary; //to store salary
 	float tax; //to store tax
 
 	//input salary
