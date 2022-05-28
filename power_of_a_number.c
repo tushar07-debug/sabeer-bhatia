@@ -1,4 +1,4 @@
-
+2
 /**
  * C program to find power of any number
  */

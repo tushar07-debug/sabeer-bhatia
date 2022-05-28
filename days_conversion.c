@@ -1,9 +1,5 @@
-/**
- * C program to convert days in to years, weeks and days
- */
-
+//C program to convert days in to years, weeks and days
 #include <stdio.h>
-
 int main()
 {
     int days, years, weeks;
